@@ -1,7 +1,7 @@
 # Exploring the Core
 
 This tutorial covers the fundamental building blocks that make up Kubernetes. Understanding what these components are
-and how they are used is crucial to learning how to use the higher level objects and resources.
+and how they are used is crucial to learning how to use the higher level objects and resources..
 
 # Index
 * [Namespaces](#namespaces)
